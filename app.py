@@ -1319,7 +1319,7 @@ ax.boxplot(
         minimum_inventories,
         final_inventories
     ],
-    labels=[
+    tick_labels=[
         "Total Cost",
         "Total Shortage",
         "Min Inventory",
@@ -1532,7 +1532,7 @@ ax.boxplot(
         weekly_inventory[:, i]
         for i in range(params["weeks"])
     ],
-    labels=[
+    tick_labels=[
         f"W{i}"
         for i in weeks_axis
     ]
