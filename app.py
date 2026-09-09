@@ -1738,6 +1738,14 @@ Therefore, the objective is not necessarily to minimize inventory.
 st.markdown("---")
 
 st.caption(
-    "Monte Carlo Supply Chain Disruption Simulator | "
-    "Operations Management / Supply Chain Management"
+    "Developed by Prof. Jaydip Sen, Praxis Business School, Kolkata | "
+    "Monte Carlo Supply Chain Disruption Simulator"
+)
+
+st.caption(
+    "© 2026 Jaydip Sen. All rights reserved."
+)
+
+st.caption(
+    "For academic, educational, and research purposes."
 )
